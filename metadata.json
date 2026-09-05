@@ -1,0 +1,6 @@
+{
+  "name": "Phúc Long Tea & Coffee — Đậm Vị Truyền Thống",
+  "description": "Trải nghiệm tương tác giới thiệu các thức uống đặc trưng của Phúc Long Tea & Coffee từ năm 1968: Trà Đào, Trà Vải Sen, Trà Sữa Phúc Long và Cà Phê truyền thống.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
